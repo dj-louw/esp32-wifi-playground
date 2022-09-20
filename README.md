@@ -1,0 +1,1 @@
+This is a wifi testing playground project for the ESP32 development board.
